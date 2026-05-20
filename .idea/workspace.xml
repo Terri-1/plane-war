@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PlaneWar:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39d6f232-63e4-4624-b5d9-c888a15a9664" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2gPifyycxfV7ZGURvjSS3giGy6o" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\代码\PlaneWar\imgs" />
+      <recent name="D:\PlaneWar\imgs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.App" />
+      <module name="PlaneWar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxt.obj.Enemy2Bulletobj" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.GameWin" />
+      <module name="PlaneWar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxt.obj.Enemy2Bulletobj" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaneGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.PlaneGame" />
+      <module name="PlaneWar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.PlaneGame" />
+        <item itemvalue="Application.GameWin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39d6f232-63e4-4624-b5d9-c888a15a9664" name="Default Changelist" comment="" />
+      <created>1715605720120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715605720120</updated>
+      <workItem from="1715605723526" duration="4207000" />
+      <workItem from="1715702317246" duration="476000" />
+      <workItem from="1715702828545" duration="160000" />
+      <workItem from="1715774092443" duration="1656000" />
+      <workItem from="1715775779977" duration="1294000" />
+      <workItem from="1715905784433" duration="969000" />
+      <workItem from="1715908056842" duration="4838000" />
+      <workItem from="1715951726934" duration="124000" />
+      <workItem from="1716107944621" duration="22000" />
+      <workItem from="1716293969790" duration="8068000" />
+      <workItem from="1716375223767" duration="20897000" />
+      <workItem from="1716431141096" duration="10419000" />
+      <workItem from="1716474777830" duration="8578000" />
+      <workItem from="1716510205898" duration="9930000" />
+      <workItem from="1716621389687" duration="13046000" />
+      <workItem from="1716721683577" duration="11497000" />
+      <workItem from="1716736225326" duration="610000" />
+      <workItem from="1716821042555" duration="8924000" />
+      <workItem from="1716870480421" duration="1501000" />
+      <workItem from="1716872504602" duration="6800000" />
+      <workItem from="1716882880708" duration="2105000" />
+      <workItem from="1716979810983" duration="7017000" />
+      <workItem from="1717116728485" duration="8826000" />
+      <workItem from="1717326463987" duration="469000" />
+      <workItem from="1717336261267" duration="12569000" />
+      <workItem from="1717389477818" duration="5758000" />
+      <workItem from="1717496433305" duration="819000" />
+      <workItem from="1717497393267" duration="2439000" />
+      <workItem from="1717596555467" duration="30000" />
+      <workItem from="1717680038626" duration="2741000" />
+      <workItem from="1717719954946" duration="2284000" />
+      <workItem from="1717764284582" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
