@@ -1,1 +1,12 @@
 update file01
+git init
+git add
+git commit -m""
+git status
+git log
+git-log
+git reset hard id
+git reflog
+git remote add origin https://github.com/你的用户名/PlaneWar.git
+git branch
+git push -u origin master
